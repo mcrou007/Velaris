@@ -15,4 +15,6 @@ This repository contains the framework and materials for a comprehensive trainin
 - **Scheduling**: Templates for session planning and progress tracking.
 - **Feedback Forms**: Tools for gathering participant feedback to improve future sessions.
 
-![Alt text](./1.png)
+
+## My project Velaris team beating a top paid organization in the main event of the year
+- [![Velaris VS Flyquest Main Event](https://www.youtube.com/live/WKyjTT6LRPk?app=desktop)
