@@ -1,5 +1,8 @@
 # Esports Team Training Program
 
+## My project Velaris team beating a top paid organization in the main event of the year
+- [Velaris VS Flyquest Main Event](https://www.vlr.gg/240395/velaris-vs-flyquest-red-game-changers-2023-series-ii-north-america-lr3)
+
 ## Program Overview
 This training program is designed to onboard new players and enhance the skills of existing team members. It focuses on strategic gameplay, teamwork, communication, and individual skill development.
 
@@ -76,5 +79,3 @@ This training program is designed to onboard new players and enhance the skills 
 
 ## Conclusion
 This training program aims to build a strong foundation for all team members, ensuring they are well-prepared for competitive play. Continuous improvement and adaptation will be key to the team’s success.
-## My project Velaris team beating a top paid organization in the main event of the year
-- [Velaris VS Flyquest Main Event](https://www.vlr.gg/240395/velaris-vs-flyquest-red-game-changers-2023-series-ii-north-america-lr3)
