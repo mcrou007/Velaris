@@ -15,7 +15,4 @@ This repository contains the framework and materials for a comprehensive trainin
 - **Scheduling**: Templates for session planning and progress tracking.
 - **Feedback Forms**: Tools for gathering participant feedback to improve future sessions.
 
-## Getting Started
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/esports-team-training-program.git
+![Alt text](path/to/your/1.png)
