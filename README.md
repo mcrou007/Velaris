@@ -15,4 +15,4 @@ This repository contains the framework and materials for a comprehensive trainin
 - **Scheduling**: Templates for session planning and progress tracking.
 - **Feedback Forms**: Tools for gathering participant feedback to improve future sessions.
 
-![Alt text](path/to/your/1.png)
+![Alt text](Velaris/1.png)
